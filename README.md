@@ -1,6 +1,6 @@
 # Name-Generator
 
-A english name generator created using a bayesian network.
+An english name generator created using a bayesian network.
 
 Library - [pgmpy](https://pgmpy.org/) (a library for probabilistic graphical models)
 
